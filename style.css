@@ -130,16 +130,17 @@ ul li span:hover
     }
     .container input
     {
-      margin-left: -30px;
+      margin-left: -15px;
       padding: 25px;
-      width: 400px;
+      width: 500px;
       border-radius: 20px;
     }
     .container button
     {
-      margin-left: 20px;
+      margin-left: 40%;
+      margin-top: 10px;
       padding: 20px;
-      width: 100px;
+      width: 150px;
       border-radius: 20px;
     }
 
@@ -148,7 +149,8 @@ ul li span:hover
      border-radius: 20px;
      border: 5px solid rgb(0, 51, 255);
      margin-top: 10%;
-     width:80%;
+     margin-left: -85px;
+     width:79%;
      min-height: 50vh;
      background: rgb(15, 206, 85);
      padding: 20px;
